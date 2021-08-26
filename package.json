@@ -1,0 +1,16 @@
+{
+  "name": "gh-to-raw",
+  "version": "1.0.0",
+  "description": "Convert a link of a file in a repo to its raw url.",
+  "main": "index.js",
+  "author": "Tim <timpersonal07@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.1.2",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^7.3.3",
+    "@types/node-fetch": "^2.5.12"
+  }
+}
